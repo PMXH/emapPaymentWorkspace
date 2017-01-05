@@ -1,0 +1,8 @@
+configMode=serverFile
+contextsDir=C\:/Users/Administrator/Desktop/Emap/server/conf/Catalina/localhost
+eclipse.preferences.version=1
+fixTomcatHomeBug=fixed
+jvmParameters=-Demap.workspace\=D\:/emapWorkSpace/emapPaymentWorkspace;-noverify;
+tomcatConfigFile=C\:/Users/Administrator/Desktop/Emap/server/conf/server.xml
+tomcatDir=C\:/Users/Administrator/Desktop/Emap/server
+tomcatVersion=tomcatV7

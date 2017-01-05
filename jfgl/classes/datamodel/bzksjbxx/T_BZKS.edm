@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Model xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:model="http://www.wisedu.com/emap/model/model" dataSource="DB_JF_BIZ_BASE">
+  <dataModel name="T_BZKS" queryOrder="" type="table">
+    <item caption="" colName="XH" groupName="" length="20" name="XH" pK="true" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="XM" groupName="" length="60" name="XM" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="XMPY" groupName="" length="60" name="XMPY" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="CYM" groupName="" length="60" name="CYM" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="YWM" groupName="" length="60" name="YWM" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="XBDM" groupName="" length="1" name="XBDM" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="XXDM" groupName="" length="1" name="XXDM" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="ZZMMDM" groupName="" length="2" name="ZZMMDM" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="SFZJLXM" groupName="" length="1" name="SFZJLXM" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="CSRQ" groupName="" length="8" name="CSRQ" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="CSDDM" groupName="" length="6" name="CSDDM" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="JTCSDM" groupName="" length="2" name="JTCSDM" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="JGDM" groupName="" length="6" name="JGDM" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="JKZKDM" groupName="" length="2" name="JKZKDM" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="HYZKDM" groupName="" length="2" name="HYZKDM" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="GATQDM" groupName="" length="2" name="GATQDM" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="LYZBDM" groupName="" length="1" name="LYZBDM" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="GJDQDM" groupName="" length="3" name="GJDQDM" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="BYZX" groupName="" length="150" name="BYZX" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="ZYDZ" groupName="" length="100" name="ZYDZ" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="SYDDM" groupName="" length="6" name="SYDDM" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="HSSBKDM" groupName="" length="10" name="HSSBKDM" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="XSLYDM" groupName="" length="3" name="XSLYDM" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="HKXZDM" groupName="" length="1" name="HKXZDM" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="HKSZD" groupName="" length="300" name="HKSZD" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="YXDM" groupName="" length="10" name="YXDM" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="JDFSDM" groupName="" length="1" name="JDFSDM" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="PYFSDM" groupName="" length="2" name="PYFSDM" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="WTPYDW" groupName="" length="150" name="WTPYDW" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="XSLBDM" groupName="" length="5" name="XSLBDM" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="DYWYYZDM" groupName="" length="2" name="DYWYYZDM" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="DYWYSPDM" groupName="" length="1" name="DYWYSPDM" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="DEWYYZDM" groupName="" length="2" name="DEWYYZDM" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="DEWYSPDM" groupName="" length="1" name="DEWYSPDM" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="DSZGH" groupName="" length="20" name="DSZGH" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="RXNY" groupName="" length="6" name="RXNY" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="RXNJ" groupName="" length="4" name="RXNJ" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="XZNJ" groupName="" length="4" name="XZNJ" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="XZZYDM" groupName="" length="10" name="XZZYDM" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="BH" groupName="" length="20" name="BH" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="XZ" groupName="" length="" name="XZ" type="double">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="JDXWDM" groupName="" length="3" name="JDXWDM" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="JDXLDM" groupName="" length="2" name="JDXLDM" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="YJBYNF" groupName="" length="4" name="YJBYNF" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="YJBYJD" groupName="" length="2" name="YJBYJD" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="SJBYSJ" groupName="" length="8" name="SJBYSJ" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="TZ" groupName="" length="" name="TZ" type="double">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="SG" groupName="" length="" name="SG" type="double">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="ZHPC" groupName="" length="200" name="ZHPC" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="ZCQK" groupName="" length="1" name="ZCQK" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="SFZX" groupName="" length="1" name="SFZX" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="XJZT" groupName="" length="30" name="XJZT" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="DQZTDM" groupName="" length="2" name="DQZTDM" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="HDXLFSDM" groupName="" length="1" name="HDXLFSDM" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="SFXFZ" groupName="" length="1" name="SFXFZ" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="PYCCDM" groupName="" length="1" name="PYCCDM" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="LDFSDM" groupName="" length="1" name="LDFSDM" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="ZP" groupName="" length="4000" name="ZP" type="Stream">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="SFZJYXKSQ" groupName="" length="8" name="SFZJYXKSQ" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="SFZJYXJZQ" groupName="" length="8" name="SFZJYXJZQ" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="SFDSZN" groupName="" length="1" name="SFDSZN" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="YXH" groupName="" length="20" name="YXH" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="LYDQDM" groupName="" length="6" name="LYDQDM" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="JG" groupName="" length="20" name="JG" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <item caption="" colName="XYZJDM" groupName="" length="2" name="XYZJDM" type="String">
+      <attribute name="enabled" value="true"/>
+    </item>
+    <rowFactors/>
+  </dataModel>
+</model:Model>

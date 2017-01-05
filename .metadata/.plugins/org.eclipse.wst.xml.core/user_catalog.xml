@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+  <system systemId="https://raw.githubusercontent.com/micromagic/eterna/master/main/doc/eterna_2_0.xsd" uri="file:///C:/Users/Administrator/Desktop/Emap/pedestal/studio/configs/eterna_2_0.xsd"/>
+</catalog>
